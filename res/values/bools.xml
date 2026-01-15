@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <bool name="config_enableScreenshotChord">true</bool>
     <bool name="config_device_volte_available">false</bool>
     <bool name="config_device_vt_available">false</bool>
     <bool name="config_device_wfc_ims_available">false</bool>
@@ -18,3 +19,4 @@
     <bool name="config_voice_capable">false</bool>
     <bool name="config_sms_capable">false</bool>
 </resources>
+
