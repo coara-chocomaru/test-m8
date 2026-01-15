@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Membenarkan aplikasi untuk melumpuhkan kunci kekunci dan sebarang keselamatan kata laluan yang dikaitkan. Contohnya, tablet melumpuhkan kunci kekunci semasa menerima panggilan telefon masuk, kemudian mendayakan semula kunci kekunci apabila panggilan tamat.</string>
+</resources>

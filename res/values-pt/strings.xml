@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Permite que o aplicativo desabilite a trava e qualquer senha de segurança associada. Por exemplo, o tablet desabita a trava quando recebendo um chamada telefônica, então rehabilita a trava quando a chamda é finalizada.</string>
+</resources>

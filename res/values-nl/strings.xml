@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Hiermee kan de app de toetsvergrendeling en bijbehorende wachtwoordbeveiliging uitschakelen. Een voorbeeld: Het tablet schakelt bijvoorbeeld de toetsvergrendeling uit bij een binnenkomend telefoongesprek, en schakelt de vergrendeling weer in na afloop van het gesprek.</string>
+</resources>

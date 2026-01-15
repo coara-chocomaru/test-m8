@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">允許應用程式停用按鍵鎖定以及其他相關的密碼安全性功能。例如：平板電腦收到來電時停用按鍵鎖定，通話結束後重新啟用按鍵鎖定。</string>
+</resources>

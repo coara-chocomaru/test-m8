@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">允许该应用停用键锁以及任何关联的密码安全措施。例如，让平板电脑在接听来电时停用键锁，在通话结束后重新启用键锁。</string>
+</resources>

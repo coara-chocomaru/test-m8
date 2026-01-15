@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Umożliwia aplikacji wyłączenie blokady przycisków i wszystkich powiązanych haseł zabezpieczających. Na przykład, tablet wyłącza blokadę przycisków przy odebraniu połączenia przychodzącego, a następnie ponownie włącza blokadę przycisków po zakończeniu połączenia.</string>
+</resources>

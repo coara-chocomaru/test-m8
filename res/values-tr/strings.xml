@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Uygulamanın tuş kilidini ve herhangi bir bağlantılı parola güvenliğini devre dışı bırakmasına izin verir. Örneğin, tablet bir gelen çağrı olduğunda tuş kilidini devre dışı bırakacaktır, çağrı sona erdiğinde tuş kilidini devre dışı bırakın.</string>
+</resources>

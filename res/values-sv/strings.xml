@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Tillåter att programmet inaktiverar knapplåset och tillhörande lösenordsskydd. Exempelvis, surfplattan inaktiverar knapplåset vid inkommande samtal och återaktiverar det igen när samtalet är avslutat.</string>
+</resources>

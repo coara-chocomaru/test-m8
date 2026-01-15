@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Cho phép ứng dụng tắt khóa phím và mọi bảo mật mật khẩu liên quan. Chẳng hạn, máy tính bảng sẽ tắt khóa phím khi nhận cuộc gọi đến, sau đó bật lại khóa phím khi cuộc gọi kết thúc.</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Permite aplicaţiei să dezactiveze blocarea tastelor şi orice nivel de securitate a parolei asociat. De exemplu, tableta dezactivează blocarea tastelor când primeşte un apel telefonic, apoi reactivează blocarea tastelor când apelul este terminat.</string>
+</resources>

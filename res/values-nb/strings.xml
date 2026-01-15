@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Lar appen deaktivere tastelåsen og eventuell tilknyttet passordsikkerhet. Et eksempel er at nettbrettet deaktiverer tastelåsen når du mottar et innkommende anrop, og deretter aktiverer tastelåsen igjen når anropet er ferdig.</string>
+</resources>

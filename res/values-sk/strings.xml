@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Aplikácii umožňuje vypnúť zámok klávesnice a súvisiace zabezpečenie heslom. Napríklad tablet vypne zámok klávesnice pri prichádzajúcom hovore a znovu ho zapne, keď je hovor ukončený.</string>
+</resources>

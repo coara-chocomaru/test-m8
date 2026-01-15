@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Pinahihintulutan ang app na hindi paganahin ang keylock at anumang kaugnay na seguridad ng password. Halimbawa, hindi pinapagana ng tablet ang keylock kapag tumatanggap ng papasok na tawag sa telepono, at pinagagana muli ang keylock kapag tapos na ang tawag.</string>
+</resources>
