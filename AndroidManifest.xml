@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="android.auto_generated_rro__" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <overlay android:isStatic="true" android:priority="0" android:targetPackage="android"/>
+</manifest>
