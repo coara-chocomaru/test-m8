@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Allows app to disable keylock and any associated password. For example, the tablet disables the keylock when receiving a phone call, then re-enables it after the call.</string>
+</resources>

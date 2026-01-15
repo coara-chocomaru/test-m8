@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Erlaubt der App die Deaktivierung der Tastensperre und jeglicher zugehöriger Kennwortsicherheit. Beispiel: Das Tablet deaktiviert die Tastensperre bei Empfang eines eingehenden Anrufs, aktiviert die Tastensperre dann wieder, sobald der Anruf beendet ist.</string>
+</resources>

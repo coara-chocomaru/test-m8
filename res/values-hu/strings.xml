@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Engedélyt ad az alkalmazásnak, hogy letiltsa a billentyűzárat és a hozzá tartozó jelszavas védelmet. Például a tablet letiltja a billentyűzárat beérkező híváskor, majd újra engedélyezi a hívás végén.</string>
+</resources>

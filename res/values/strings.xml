@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_wifi_framework_sap_2G_channel_list">0</string>
+    <string name="config_wallpaperCropperPackage">com.android.wallpaperpicker</string>
+    <string name="permdesc_disableKeyguard">Allows the app to disable the keylock and any associated password security. For example, the tablet disables the keylock when receiving an incoming phone call, then re-enables the keylock when the call is finished.</string>
+    <string name="config_dreamsDefaultComponent">com.android.deskclock/com.android.deskclock.Screensaver</string>
+</resources>

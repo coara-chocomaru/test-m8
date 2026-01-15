@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">"Consente la disattivazione da parte di un'applicazione del blocco tastiera e di eventuali protezioni tramite password associate. Ad esempio, il tablet disattiva il blocco tastiera quando riceve una telefonata in entrata e lo riattiva al termine della chiamata."</string>
+</resources>

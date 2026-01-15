@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Bolehkan aplikasi menonaktifkan tombol kunci dan keamanan sandi terkait. Misalnya, tablet menonaktifkan tombol kunci saat menerima panggilan telepon masuk, lalu mengaktifkan kembali tombol kunci setelah panggilan selesai.</string>
+</resources>

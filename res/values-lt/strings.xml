@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Leidžia programai išjungti klavišų užraktą ir bet kokį su užraktu susijusį apsauginį slaptažodį. Pavyzdžiui, planšetė išjungia klavišų užrakto funkciją gaunant įeinantį telefono skambutį, o skambučiui pasibaigus, vėl įjungia klavišų užraktą.</string>
+</resources>

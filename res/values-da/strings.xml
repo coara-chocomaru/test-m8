@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Tillader programmet at deaktivere tastaturlåsen og en eventuel tilknyttet sikkerhed via adgangskode. Tabletten deaktiverer f.eks. tastaturlåsen, når den modtager et indgående telefonopkald og genetablerer tastaturlåsen, når opkaldet er afsluttet.</string>
+</resources>

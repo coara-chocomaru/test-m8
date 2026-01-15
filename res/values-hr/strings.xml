@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Aplikaciji omogućava deaktiviranje zaključavanja tipkovnice i svih pripadajućih sigurnosnih lozinki. Primjerice, tablet će deaktivirati zaključavanje tipkovnice u slučaju primanja dolaznog poziva, a zatim će ponovno aktivirati zaključavanje tipkovnice nakon završetka poziva.</string>
+</resources>

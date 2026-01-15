@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Ļauj lietotnei atspējot taustiņslēgu un visu saistīto paroļu drošību. Piemēram, planšetdators atspējo taustiņslēgu, saņemot ienākošu zvanu, un pēc zvana pabeigšanas atkārtoti iespējo taustiņslēgu.</string>
+</resources>

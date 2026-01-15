@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Umožňuje aplikaci deaktivovat zámek kláves a jakékoli přidružené zabezpečení heslem. Příkladem je deaktivace zámku kláves tabletem při přijímání příchozího telefonního volání a následně obnovení zámku kláves po dokončení volání.</string>
+</resources>

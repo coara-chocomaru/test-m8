@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Permite a la aplicación deshabilitar el bloqueo de teclado y toda la seguridad mediante contraseña asociada. Por ejemplo, la tableta deshabilita el bloqueo del teclado cuando se recibe una llamada de teléfono entrante y, a continuación, se vuelve a habilitar dicho bloqueo cuando la llamada finaliza.</string>
+</resources>

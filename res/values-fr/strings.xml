@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">"Autorise l'application à désactiver le verrouillage des touches et l'éventuelle sécurité par mot de passe associée. Par exemple, la tablette désactive le verrouillage des touches lors d'un appel entrant, puis rétablit le verrouillage des touches une fois l'appel terminé."</string>
+</resources>

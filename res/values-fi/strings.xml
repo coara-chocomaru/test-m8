@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_disableKeyguard">Sallii sovelluksen ottaa näppäinlukituksen ja kaikki asiaan liittyvät salasanasuojaukset pois käytöstä. Esimerkiksi tablet-tietokone ottaa näppäinlukituksen pois käytöstä, kun vastaanotetaan saapuva puhelu, ja ottaa sen takaisin käyttöön puhelun loputtua.</string>
+</resources>
