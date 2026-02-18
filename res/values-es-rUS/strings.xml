@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="permdesc_disableKeyguard">Permite que la aplicación desactive el bloqueo de teclas y cualquier seguridad de contraseña asociada. La tablet desactiva el bloqueo de teclas cuando recibe una llamada telefónica entrante, luego vuelve a activar el bloqueo de teclas cuando la llamada terminó.</string>
-</resources>
